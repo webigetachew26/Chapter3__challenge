@@ -1,4 +1,4 @@
-fREADME.md 
+README.md 
 
 AeroWeather – JavaFX App
 
