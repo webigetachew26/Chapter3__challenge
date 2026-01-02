@@ -1,4 +1,4 @@
-README.md 
+fREADME.md 
 
 AeroWeather – JavaFX App
 
@@ -24,6 +24,3 @@ How to Run
    Author
 Webi Getachew
 
-Author
-
-Webi Getachew
